@@ -1,2 +1,5 @@
-qweqweasdqweasd
-123123123
+#include<iostream>
+
+void main(void){
+    printf("%d", 123);
+}
